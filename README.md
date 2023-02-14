@@ -4,6 +4,8 @@ Simple application for sending emails.
 
 ## Getting Started
 
+Proyect create in Flutter
+
 This project is a simple example of using the mailer library for sending emails.
 
 In addition, the bitsdojo_window library is used in a simple way to adjust the desktop window to a specific size and shape.
